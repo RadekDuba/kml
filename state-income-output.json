@@ -1,0 +1,282 @@
+{
+    "AL": {
+        "state": "Alabama",
+        "population": 5054137,
+        "income": 34516135
+    },
+    "AK": {
+        "state": "Alaska",
+        "population": 733346,
+        "income": 14142120
+    },
+    "AS": {
+        "state": "American Samoa",
+        "population": 0,
+        "income": 0
+    },
+    "AZ": {
+        "state": "Arizona",
+        "population": 7266592,
+        "income": 26652730
+    },
+    "AR": {
+        "state": "Arkansas",
+        "population": 3032833,
+        "income": 28496072
+    },
+    "CA": {
+        "state": "California",
+        "population": 39241543,
+        "income": 156630529
+    },
+    "CO": {
+        "state": "Colorado",
+        "population": 5811179,
+        "income": 39371576
+    },
+    "MP": {
+        "state": "Commonwealth of the Northern Mariana Islands",
+        "population": 0,
+        "income": 0
+    },
+    "CT": {
+        "state": "Connecticut",
+        "population": 3598348,
+        "income": 29689693
+    },
+    "DE": {
+        "state": "Delaware",
+        "population": 1006247,
+        "income": 5319650
+    },
+    "DC": {
+        "state": "District of Columbia",
+        "population": 672079,
+        "income": 2564733
+    },
+    "FL": {
+        "state": "Florida",
+        "population": 21928794,
+        "income": 70732005
+    },
+    "GA": {
+        "state": "Georgia",
+        "population": 10822612,
+        "income": 46094460
+    },
+    "GU": {
+        "state": "Guam",
+        "population": 0,
+        "income": 0
+    },
+    "HI": {
+        "state": "Hawaii",
+        "population": 1445635,
+        "income": 7345114
+    },
+    "ID": {
+        "state": "Idaho",
+        "population": 1893322,
+        "income": 17569623
+    },
+    "IL": {
+        "state": "Illinois",
+        "population": 12692601,
+        "income": 105024168
+    },
+    "IN": {
+        "state": "Indiana",
+        "population": 6811752,
+        "income": 52468712
+    },
+    "IA": {
+        "state": "Iowa",
+        "population": 3196394,
+        "income": 69519657
+    },
+    "KS": {
+        "state": "Kansas",
+        "population": 2937420,
+        "income": 46372419
+    },
+    "KY": {
+        "state": "Kentucky",
+        "population": 4499246,
+        "income": 36675653
+    },
+    "LA": {
+        "state": "Louisiana",
+        "population": 4620578,
+        "income": 26750544
+    },
+    "ME": {
+        "state": "Maine",
+        "population": 1377734,
+        "income": 27830383
+    },
+    "MD": {
+        "state": "Maryland",
+        "population": 6170363,
+        "income": 47790616
+    },
+    "MA": {
+        "state": "Massachusetts",
+        "population": 6992213,
+        "income": 57485682
+    },
+    "MI": {
+        "state": "Michigan",
+        "population": 10051577,
+        "income": 68601242
+    },
+    "MN": {
+        "state": "Minnesota",
+        "population": 5713261,
+        "income": 69053771
+    },
+    "MS": {
+        "state": "Mississippi",
+        "population": 2951317,
+        "income": 19319186
+    },
+    "MO": {
+        "state": "Missouri",
+        "population": 6168379,
+        "income": 62753310
+    },
+    "MT": {
+        "state": "Montana",
+        "population": 1105740,
+        "income": 22361901
+    },
+    "NE": {
+        "state": "Nebraska",
+        "population": 1966853,
+        "income": 41331820
+    },
+    "NV": {
+        "state": "Nevada",
+        "population": 3140659,
+        "income": 12137163
+    },
+    "NH": {
+        "state": "New Hampshire",
+        "population": 1387500,
+        "income": 23097956
+    },
+    "NJ": {
+        "state": "New Jersey",
+        "population": 9267014,
+        "income": 66755148
+    },
+    "NM": {
+        "state": "New Mexico",
+        "population": 2116795,
+        "income": 16354668
+    },
+    "NY": {
+        "state": "New York",
+        "population": 19789763,
+        "income": 146517445
+    },
+    "NC": {
+        "state": "North Carolina",
+        "population": 10584400,
+        "income": 50919069
+    },
+    "ND": {
+        "state": "North Dakota",
+        "population": 778556,
+        "income": 29067273
+    },
+    "OH": {
+        "state": "Ohio",
+        "population": 11780046,
+        "income": 81589285
+    },
+    "OK": {
+        "state": "Oklahoma",
+        "population": 3995228,
+        "income": 38926902
+    },
+    "OR": {
+        "state": "Oregon",
+        "population": 4238837,
+        "income": 29088289
+    },
+    "PA": {
+        "state": "Pennsylvania",
+        "population": 12986518,
+        "income": 127317138
+    },
+    "PR": {
+        "state": "Puerto Rico",
+        "population": 3254885,
+        "income": 3130759
+    },
+    "RI": {
+        "state": "Rhode Island",
+        "population": 1095391,
+        "income": 7140580
+    },
+    "SC": {
+        "state": "South Carolina",
+        "population": 5212774,
+        "income": 23782608
+    },
+    "SD": {
+        "state": "South Dakota",
+        "population": 898880,
+        "income": 25223406
+    },
+    "TN": {
+        "state": "Tennessee",
+        "population": 6997741,
+        "income": 38033160
+    },
+    "TX": {
+        "state": "Texas",
+        "population": 29639483,
+        "income": 129158821
+    },
+    "VI": {
+        "state": "United States Virgin Islands",
+        "population": 0,
+        "income": 0
+    },
+    "UT": {
+        "state": "Utah",
+        "population": 3344464,
+        "income": 21881785
+    },
+    "VT": {
+        "state": "Vermont",
+        "population": 645254,
+        "income": 19213367
+    },
+    "VA": {
+        "state": "Virginia",
+        "population": 8657769,
+        "income": 66981601
+    },
+    "WA": {
+        "state": "Washington",
+        "population": 7740873,
+        "income": 48417977
+    },
+    "WV": {
+        "state": "West Virginia",
+        "population": 1784132,
+        "income": 31074005
+    },
+    "WI": {
+        "state": "Wisconsin",
+        "population": 5929995,
+        "income": 57998277
+    },
+    "WY": {
+        "state": "Wyoming",
+        "population": 564413,
+        "income": 10213935
+    }
+}
